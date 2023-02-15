@@ -1,10 +1,11 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 16px;
-  color: #222;
-  background-color: #fff;
+  color: #f9f9f9;
+  background-color: #000262;
   text-align: center;
   line-height: 1.4em;
+  
 }
 
 main {
@@ -23,7 +24,7 @@ h3 {
 }
 
 a {
-  color: #2574a9;
+  color: #8fc4e7;
 }
 
 form {
